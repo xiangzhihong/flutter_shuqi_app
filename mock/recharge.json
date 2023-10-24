@@ -1,0 +1,78 @@
+{
+    "status": 200,
+    "message": "success",
+    "data": {
+        "modeId": 4,
+        "modeName": "微信",
+        "products": [
+            {
+                "id": "2006",
+                "price": "100",
+                "beanCount": 1000,
+                "privilege": "(+5%)",
+                "prompt": "送5%",
+                "thirdProductId": "",
+                "totalCount": 1050,
+                "extCount": 50
+            },
+            {
+                "id": "2005",
+                "price": "50",
+                "beanCount": 500,
+                "privilege": "(+2%)",
+                "prompt": "送2%",
+                "thirdProductId": "",
+                "totalCount": 510,
+                "extCount": 10
+            },
+            {
+                "id": "2004",
+                "price": "200",
+                "beanCount": 2000,
+                "thirdProductId": "",
+                "totalCount": 2000,
+                "extCount": 0
+            },
+            {
+                "id": "2003",
+                "price": "30",
+                "beanCount": 300,
+                "thirdProductId": "",
+                "totalCount": 300,
+                "extCount": 0
+            },
+            {
+                "id": "2002",
+                "price": "12",
+                "beanCount": 120,
+                "thirdProductId": "",
+                "totalCount": 120,
+                "extCount": 0
+            },
+            {
+                "id": "2001",
+                "price": "10",
+                "beanCount": 100,
+                "thirdProductId": "",
+                "totalCount": 100,
+                "extCount": 0
+            },
+            {
+                "id": "2000",
+                "price": "6",
+                "beanCount": 60,
+                "thirdProductId": "",
+                "totalCount": 60,
+                "extCount": 0
+            },
+            {
+                "id": "1999",
+                "price": "1",
+                "beanCount": 10,
+                "thirdProductId": "",
+                "totalCount": 10,
+                "extCount": 0
+            }
+        ]
+    }
+}

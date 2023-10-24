@@ -1,0 +1,84 @@
+{
+    "message": "success",
+    "status": 200,
+    "data": {
+        "items": [
+            {
+                "actionType": "book",
+                "bid": "6720460",
+                "bookName": "太古狂魔",
+                "bookCover": "https://img-tailor.11222.cn/bcv/big/0155636720460_s.jpg",
+                "author": "汉隶",
+                "desc": "一名身缠七彩恶龙、肩扛古老石棺的白发青年，仰望高高在上的诸天至尊、万古道祖，淡淡道：“诸位，我说我这石棺葬过天，你们信么？”",
+                "tags": [
+                    "扮猪吃虎",
+                    "修士",
+                    "重生",
+                    "复仇",
+                    "热血",
+                    "传统玄幻",
+                    "修炼",
+                    "玄幻",
+                    "架空"
+                ],
+                "price": "0.7",
+                "wordCount": "8492680",
+                "chargeMode": "3",
+                "readFeatureOpt": "0",
+                "cache": true
+            },
+            {
+                "actionType": "book",
+                "bid": "6813921",
+                "bookName": "鸿蒙道尊",
+                "bookCover": "https://img-tailor.11222.cn/bcv/big/1116346813921_s.jpg",
+                "author": "九支书竹",
+                "desc": "三十三诸天世界，灭世道劫，凭手中三尺青锋，败尽三十三天诸天骄，战通天，逆轮回，掌生死，踏碎凌霄",
+                "tags": [
+                    "轻松",
+                    "热血",
+                    "逆袭",
+                    "无敌",
+                    "升级",
+                    "修士",
+                    "爽文",
+                    "传统玄幻",
+                    "修炼",
+                    "打脸",
+                    "仙帝",
+                    "玄幻"
+                ],
+                "price": "0.7",
+                "wordCount": "3832028",
+                "chargeMode": "3",
+                "readFeatureOpt": "0",
+                "cache": true
+            },
+            {
+                "actionType": "book",
+                "bid": "7356799",
+                "bookName": "遮天记",
+                "bookCover": "https://img-tailor.11222.cn/bcv/big/0139127356799_s.jpg",
+                "author": "归来的洛秋",
+                "desc": "陆安是一个弃婴，准确的说是要被父亲扼杀的孩子。于古江之水漂流到最贫瘠的地方，成为了最低等的奴隶。食物，住所，还有尊严，都成为奢侈品。\n于是，他身着麻衣，行走与蛮荒各处，行走于诸侯列国，行走于十五宗十六门，最后站在八古与天神面前。\n他从奴隶窟中生长，后来一手遮天。",
+                "tags": [
+                    "天才",
+                    "玄幻",
+                    "修炼",
+                    "传统玄幻",
+                    "热血",
+                    "逆袭",
+                    "升级",
+                    "修士",
+                    "扮猪吃虎",
+                    "异界"
+                ],
+                "price": "0.7",
+                "wordCount": "15435498",
+                "chargeMode": "3",
+                "readFeatureOpt": "0",
+                "cache": true
+            }
+        ]
+    }
+}

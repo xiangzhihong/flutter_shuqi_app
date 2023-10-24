@@ -1,0 +1,41 @@
+name: flutter_shuji_app
+description: ShuQi Flutter App
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  carousel_slider: ^4.2.1
+  provider: ^6.0.5
+  cached_network_image: ^3.2.3
+  shared_preferences: ^2.2.1
+  webview_flutter: ^4.2.3
+  share: ^2.0.4
+#  battery: ^2.0.3
+  intl: ^0.17.0
+#  device_info: ^2.0.3
+  oktoast: ^3.3.1
+  flutter_tts: ^3.8.3
+  flutter_rating_bar: ^4.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/img/
+    - mock/

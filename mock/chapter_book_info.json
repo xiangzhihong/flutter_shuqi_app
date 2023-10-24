@@ -1,0 +1,37 @@
+{
+    "state": "200",
+    "message": "success",
+    "data": {
+        "bookId": "6900908",
+        "bookName": "逆天神医",
+        "imgUrl": "http://img-tailor.11222.cn/bcv/big/0128746900908.jpg",
+        "authorId": "2914205",
+        "authorName": "月亮不发光",
+        "state": "2",
+        "classId": "878",
+        "className": "都市生活",
+        "chapterNum": "3374",
+        "tag": ["打脸","医术","都市","神医"],
+        "desc": "★百万收藏，万人追读★\n真正的神医是什么？是会杀人的神医！\n杀一人，救百人，杀不杀？\n杀！\n这是一个不一样的神医；\n他妙手回春，有人将他的名字写在长生牌位之上，日夜供奉。\n他受人唾骂，有人恨不得将他剥皮抽筋，日夜诅咒。\n他左擒济世壶，一手金针渡人苦海。\n他右持杀生剑，一剑送人断头台！\n可断人病，亦可要人命！\n友情提示：本书慢热。",
+        "firstChapter": {
+            "chapterId": "719306",
+            "chapterName": "第一章 林氏医馆",
+            "updateTime": 1571276892,
+            "shortContUrlSuffix": ""
+        },
+        "lastChapter": {
+            "chapterId": "1783662",
+            "chapterName": "第三千三百七十四章 走吧！（全文终）",
+            "updateTime": 1641195778,
+            "shortContUrlSuffix": ""
+        },
+        "authorIcon": "http://img-tailor.11222.cn/pm/book/operate/2020041616325210.png",
+        "shareCoverUrl": "http://d.shuqi.com/10_iGowK",
+        "formats": "1",
+        "weekClick": "12152",
+        "recIntro": "上万读者求加更，全网无差评，这个神医救人也杀人！",
+        "cpName": "原创版权",
+        "shortContUrlPrefix": "http://content.shuqireader.com/sapi/chapter/contentshort/",
+        "monthlyBuyTip": "会员8折"
+    }
+}

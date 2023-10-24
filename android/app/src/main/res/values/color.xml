@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkTheme">#333333</color> // 深色闪屏背景颜色
+    <color name="normalTheme">#ffffff</color> // 默认闪屏背景颜色
+</resources>
